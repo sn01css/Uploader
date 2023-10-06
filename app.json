@@ -22,7 +22,7 @@
       "value": "ANYTHING"
     },
     "TG_BOT_TOKEN": {
-      "description": "Your bot token, as a string.",
+      "description": "6680295441:AAE5jCUoyFfuoFVFtsgdfzA_3-Q613wig8U",
       "value": ""
     },
     "APP_ID": {
@@ -34,7 +34,7 @@
       "value": ""
     },
     "AUTH_USERS": {
-      "description": "allow only pre-defined users to use this bot (your id).",
+      "description": "1927285500",
       "value": ""
     },
     "DEF_THUMB_NAIL_VID_S": {
